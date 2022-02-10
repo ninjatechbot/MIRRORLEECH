@@ -56,6 +56,8 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 # How to deploy?
 
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+  
 ## Prerequisites
 
 - Tutorial Video from A to Z:
